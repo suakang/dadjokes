@@ -1,0 +1,17 @@
+{
+  "name": "dadjokes",
+  "version": "1.0.0",
+  "description": "Dad Jokes API site",
+  "author": "SuA Kang",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
